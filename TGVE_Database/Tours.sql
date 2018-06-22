@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Tours]
+(
+	[TourName] NVARCHAR(40) NOT NULL PRIMARY KEY,
+	[Descr] NVARCHAR(200) NOT NULL
+)
